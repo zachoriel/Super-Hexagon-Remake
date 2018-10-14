@@ -1,5 +1,5 @@
 # Super-Hexagon-Remake
-Super Hexagon remake challenge inspired by Brackeys
+Timed Super Hexagon remake challenge inspired by Brackeys
 
 Touchscreen & keyboard supported
 
